@@ -6,7 +6,7 @@
  - <em>Brazilian</em> <img align="justify" alt="Vitor-Brasil" height="35" width="35" src="https://c.tenor.com/8HnIptQE400AAAAi/brazil-flag.gif">
  - Working in <a href="https://www.paradigmabs.com.br/" target="_blank" rel="external">Paradigma Business Solutions</a> 💻 - <em>IT Support L1</em>:
  - Studying: Information Technology Management in IFSC (Federal Institute of Education, Science and Technology of Santa Catarina) - Florianópolis/SC <img align="center" alt="Vitor-IFSC" height="30" width="35" src="http://docente.ifsc.edu.br/roberto.nobrega/media/ifsc-logo.png">
- - Goals: Full-Stack, Data-science enginner.
+ - Goals: Full-Stack, Data scientist.
  <hr>
 
  <div>
