@@ -13,7 +13,6 @@
   <a href="https://github.com/torvigoes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=torvigoes&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torvigoes&layout=compact&langs_count=7&theme=tokyonight"/>
-  <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?torvigoes" frameborder="0"></iframe>
 </div>
   
  ## <em>Skills</em>
