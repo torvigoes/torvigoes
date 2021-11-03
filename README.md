@@ -12,7 +12,7 @@
  <div>
   <a href="https://github.com/torvigoes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=torvigoes&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torvigoes&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
  ## <em>Skills</em>
