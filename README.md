@@ -28,14 +28,7 @@
 
  
  ##
-  ## <em>In progress</em>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Vitor-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg">
-  <img align="center" alt="Vitor-NumPy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-  <img align="center" alt="Vitor-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Vitor-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
-  <img align="center" alt="Vitor-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="right" alt="Vitor-gif" height="256" width="256" src="https://cdn.discordapp.com/attachments/721629797394153535/879884445375660082/eugif.gif">
+
 
   
   ##
