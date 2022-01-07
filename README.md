@@ -31,7 +31,6 @@
 
 
   
-  ##
 
  <div>
    <a href="https://www.linkedin.com/in/vitor-neves-g%C3%B3es-8720111ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
