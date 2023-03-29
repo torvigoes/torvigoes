@@ -5,7 +5,7 @@
 
  - <em>Brazilian</em> <img align="justify" alt="Vitor-Brasil" height="35" width="35" src="https://c.tenor.com/8HnIptQE400AAAAi/brazil-flag.gif">
  - Working in <a href="https://www.indracompany.com/pt-br/" target="_blank" rel="external">Indra</a> 💻 - <em>C# .NET Fullstack Developer</em>
- - Studying: Computer Science at Anhembi Morumbi <img align="center" alt="Vitor-IFSC" height="30" width="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0roSxjMmQSzX6Tx2BEsKKIzcAe-7-kZjB-Q&usqp=CAU">
+ - Studying: Computer Science at <a href="https://portal.anhembi.br/" target="_blank" rel="external">Anhembi Morumbi</a>
  - Goals: Python Developer, Data scientist.
  <hr>
 
