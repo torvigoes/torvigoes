@@ -4,9 +4,9 @@
 <hr>
 
  - <em>Brazilian</em> <img align="justify" alt="Vitor-Brasil" height="35" width="35" src="https://c.tenor.com/8HnIptQE400AAAAi/brazil-flag.gif">
- - Working in <a href="https://www.indracompany.com/pt-br/" target="_blank" rel="external">Indra</a> 💻 - <em>C# .NET Backend Developer</em>
- - Studying: Information Technology Management in IFSC (Federal Institute of Education, Science and Technology of Santa Catarina) - Florianópolis/SC <img align="center" alt="Vitor-IFSC" height="30" width="35" src="http://docente.ifsc.edu.br/roberto.nobrega/media/ifsc-logo.png">
- - Goals: IoT Developer, Data scientist.
+ - Working in <a href="https://www.indracompany.com/pt-br/" target="_blank" rel="external">Indra</a> 💻 - <em>C# .NET Fullstack Developer</em>
+ - Studying: Computer Science at Anhembi Morumbi <img align="center" alt="Vitor-IFSC" height="30" width="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0roSxjMmQSzX6Tx2BEsKKIzcAe-7-kZjB-Q&usqp=CAU">
+ - Goals: Python Developer, Data scientist.
  <hr>
 
  <div>
