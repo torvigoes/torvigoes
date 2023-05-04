@@ -1,12 +1,9 @@
-<center>
- 
-![Header](src/resources/images/meuBanner_github.png)<br>
- 
-</center>
-
-### Have 21 years old
-
 <hr>
+<p align="center">
+<img src="src/resources/images/meuBanner_github.png"/>
+</p>
+<hr>
+
 
  - <em>Brazilian</em> <img align="justify" alt="Vitor-Brasil" height="35" width="35" src="https://c.tenor.com/8HnIptQE400AAAAi/brazil-flag.gif">
  - Working in <a href="https://www.indracompany.com/pt-br/" target="_blank" rel="external">Indra</a> 💻 - <em>C# .NET Fullstack Developer</em>
