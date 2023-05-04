@@ -1,4 +1,4 @@
-<hr>
+
 <p align="center">
 <img src="src/resources/images/meuBanner_github.png"/>
 </p>
