@@ -1,5 +1,5 @@
  - <em>Brazilian</em> <img align="justify" alt="Vitor-Brasil" height="35" width="35" src="https://c.tenor.com/8HnIptQE400AAAAi/brazil-flag.gif">
- - Working in <a href="https://www.indracompany.com/pt-br/" target="_blank" rel="external">Indra</a> 💻 - <em>C# .NET Junior Developer</em>
+ - Software Engineer at <a href="https://www.minsait.com/pt" target="_blank" rel="external">Minsait</a> 💻 - <em>C# .NET Junior Developer</em>
  - Studying: System Development at <a href="https://www.uninter.com/">Uninter</a>
  <hr>
 
